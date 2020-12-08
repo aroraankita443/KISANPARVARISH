@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5dd5161b-93c3-4348-974c-c2a55cad62ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/KISANPARVARISH.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KP/templates/KP/homess.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/homess.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/homestylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KP/templates/KP/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/KP/templates/KP/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bg.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/static/bg.jpeg" afterDir="false" />
-    </list>
+    <list default="true" id="5dd5161b-93c3-4348-974c-c2a55cad62ba" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
